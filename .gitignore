@@ -1,0 +1,7 @@
+# Ignore these directories
+data/
+logs/
+models/
+
+# Ignore Jupyter Notebook's checkpoints
+.ipynb_checkpoints/
